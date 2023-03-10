@@ -1,0 +1,1 @@
+[{"location":"india","temp":28,"feelsLike":13},{"location":"china","temp":23,"feelsLike":29}]
